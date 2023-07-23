@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525142827218",
+    "project_id": "e-book-learning-online",
+    "storage_bucket": "e-book-learning-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525142827218:android:544ab5a8ac04997e364d0b",
+        "android_client_info": {
+          "package_name": "com.ebook.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525142827218-qo3f4e6kc0uku385m2jh8onu0pleauhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPvXxgOtcA4TWdWjnl5oB-HkrSxyF7oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525142827218-qo3f4e6kc0uku385m2jh8onu0pleauhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
